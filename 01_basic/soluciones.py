@@ -59,4 +59,4 @@ resultado = int(round(3.1416)/2)
 
 print('El valor de PI es:', 3.1416)
 print('El valor de round(pi) es:', round(3.1416))
-print('El valot de round(PI)/2 es = ', resultado)
+print('El valot de round(PI)/2 es = ', resultado    )
